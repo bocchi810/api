@@ -1,8 +1,8 @@
 [versions]
-annotation = "1.7.1"
-kotlin = "1.9.23"
-lint = "31.3.2"
-agp = "8.3.2"
+annotation = "1.9.1"
+kotlin = "2.1.0"
+lint = "31.7.3"
+agp = "8.7.3"
 
 [plugins]
 kotlin = { id = "org.jetbrains.kotlin.jvm", version.ref = "kotlin" }
